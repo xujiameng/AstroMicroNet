@@ -1,0 +1,54 @@
+{
+  "80_input_files_match_original_and_protocol": true,
+  "row_counts": {
+    "binary_grid_all.csv": 9600,
+    "dense_input_all.csv": 3840,
+    "independent_variants_all.csv": 1040,
+    "node_order_diagnostic.csv": 240,
+    "kernel_vs_actual_class.csv": 48,
+    "dense_objective_validation.csv": 240,
+    "independent_small_graph_audit.csv": 12,
+    "趋势复现_三方法240结果.csv": 240
+  },
+  "all_recorded_confusion_counts_agree_with_F1": true,
+  "portable_rerun_matches_all_80_results_and_8000_labels": true,
+  "MAT_and_NPZ_single_file_runs_match": true,
+  "weighted_run_does_not_report_unused_binary_parameters": true,
+  "48_kernel_class_comparisons_match": true,
+  "12_small_networks_match_exhaustive_optima": true,
+  "all_240_dense_validation_partitions_score_above_truth": true,
+  "q05_summary": {
+    "baseline": {
+      "count": 20,
+      "mean": 0.7906316202726875,
+      "std": 0.11853061782504647,
+      "min": 0.4912280701754385,
+      "max": 0.9411764705882352
+    },
+    "noise_0.1": {
+      "count": 20,
+      "mean": 0.771909072198703,
+      "std": 0.09429566392786409,
+      "min": 0.5747126436781609,
+      "max": 0.9333333333333332
+    },
+    "noise_0.2": {
+      "count": 20,
+      "mean": 0.7271494648263994,
+      "std": 0.09493005408413165,
+      "min": 0.5333333333333333,
+      "max": 0.9032258064516128
+    },
+    "overlap_0.75": {
+      "count": 20,
+      "mean": 0.7567521636294888,
+      "std": 0.09709206749851752,
+      "min": 0.5393258426966292,
+      "max": 0.9032258064516128
+    }
+  },
+  "comparison_plot_contains_all_240_values_and_unchanged_references": true,
+  "v7_Word_and_submitted_manuscript_unchanged": true,
+  "both_diagnostic_figures_visually_inspected": true,
+  "portable_test_scope": "Separate package folder and packaged code/inputs; local known Python/library runtime used, not a clean-install test on another computer."
+}

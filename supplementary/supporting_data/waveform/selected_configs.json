@@ -1,0 +1,23 @@
+{
+  "xcorr_full": {
+    "rho": 0.2,
+    "tau": 0.2,
+    "theta_offset": -0.2,
+    "random_starts": 1024,
+    "row_starts": 16
+  },
+  "pearson": {
+    "rho": 0.2,
+    "tau": 0.2,
+    "theta_offset": -0.2,
+    "random_starts": 1024,
+    "row_starts": 16
+  },
+  "spearman": {
+    "rho": 0.2,
+    "tau": 0.1,
+    "theta_offset": 0.05,
+    "random_starts": 1024,
+    "row_starts": 16
+  }
+}

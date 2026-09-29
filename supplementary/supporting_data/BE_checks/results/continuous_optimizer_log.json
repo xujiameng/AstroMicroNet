@@ -1,0 +1,4962 @@
+{
+  "V01_baseline": [
+    {
+      "success": true,
+      "nit": 41,
+      "q": 0.8909258022309791,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 80,
+      "q": 0.8909261225224012,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8909258891269953,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.8909259948271352,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8909259118738262,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.8909261046841899,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.890925867250472,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.890925790182427,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.8909257059401167,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.8909258743011127,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V01_noise_0.1": [
+    {
+      "success": true,
+      "nit": 47,
+      "q": 0.7666643583990211,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.7666642586550143,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7666644264055248,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.766664311495497,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.766664206778326,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.7666643250130941,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.7666642170910956,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 87,
+      "q": 0.7666645399047464,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7666642691163854,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7666642732647241,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V01_noise_0.2": [
+    {
+      "success": true,
+      "nit": 47,
+      "q": 0.5673766156426154,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.5673763851671542,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5673765522282843,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.5673764725525405,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5673764337642812,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.5673765580952524,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5673763488606941,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.5673765644085639,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5673763259397653,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.5673761481595667,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V01_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 16,
+      "q": 0.2704766364270796,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL"
+    },
+    {
+      "success": true,
+      "nit": 31,
+      "q": 0.27047663642721387,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL"
+    },
+    {
+      "success": true,
+      "nit": 30,
+      "q": 0.2704766364271154,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL"
+    },
+    {
+      "success": true,
+      "nit": 29,
+      "q": 0.2704766364271912,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL"
+    },
+    {
+      "success": true,
+      "nit": 32,
+      "q": 0.2704766364271716,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL"
+    },
+    {
+      "success": true,
+      "nit": 29,
+      "q": 0.270476636427144,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL"
+    },
+    {
+      "success": true,
+      "nit": 28,
+      "q": 0.27047663642721337,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL"
+    },
+    {
+      "success": true,
+      "nit": 33,
+      "q": 0.2704766364272268,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL"
+    },
+    {
+      "success": true,
+      "nit": 31,
+      "q": 0.27047663642702413,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL"
+    },
+    {
+      "success": true,
+      "nit": 29,
+      "q": 0.2704766364270778,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL"
+    }
+  ],
+  "V02_baseline": [
+    {
+      "success": true,
+      "nit": 46,
+      "q": 0.8960659166944875,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 83,
+      "q": 0.8960661478769149,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8960658667680547,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.8960659243419616,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.8960661485208614,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.8960657808803189,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.896066003185177,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.8960660253589002,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.8960659339744662,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.8960658216848351,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V02_noise_0.1": [
+    {
+      "success": true,
+      "nit": 49,
+      "q": 0.768650861857075,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.7686509538137014,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.7686509770262101,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 83,
+      "q": 0.7686510389965608,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.7686508819479123,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.7686506644922375,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.7686508296357595,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.7686508964569325,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.7686507059600775,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.7686507868188387,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V02_noise_0.2": [
+    {
+      "success": true,
+      "nit": 53,
+      "q": 0.5723455807887562,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.5723455511789554,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5723453620125523,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.5723453741129944,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.5723453107376116,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5723454323548373,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.5723456036117944,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.5723455141738354,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.572345616471072,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5723455114379608,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V02_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 58,
+      "q": 0.2656062406435406,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.2656061789470179,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.26560610148621383,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 80,
+      "q": 0.26560619112932576,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.26560611628806063,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.2656061955408415,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.26560617245826573,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.2656059954619813,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.2656061349828582,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.26560620893009096,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V03_baseline": [
+    {
+      "success": true,
+      "nit": 50,
+      "q": 0.8894177212653026,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.8894177928746712,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.8894175821383346,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.889417802514833,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.8894173573598283,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.8894177976937485,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.8894178652371272,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.889417554908157,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.889417681864284,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.8894176375911627,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V03_noise_0.1": [
+    {
+      "success": true,
+      "nit": 45,
+      "q": 0.7626807015598883,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.7626805209453923,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.7626808632239258,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7626807140993951,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.7626809168246996,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.7626806938596564,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7626806917942015,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.7626808732457567,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.7626807553766639,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.762680730775985,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V03_noise_0.2": [
+    {
+      "success": true,
+      "nit": 57,
+      "q": 0.5731698233502137,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.573169875837997,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.5731700240139264,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.5731699592967558,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.5731697292150242,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.5731698810463396,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5731699899587568,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.5731697069672107,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.57316986939218,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 80,
+      "q": 0.5731699646634292,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V03_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 54,
+      "q": 0.27314698365695284,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.2731468746875176,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.2731469466654185,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.27314699934456466,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.2731469983374988,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.2731468523232072,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.27314695532403,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.27314689811399523,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.27314699186306,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 84,
+      "q": 0.27314703040589605,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V04_baseline": [
+    {
+      "success": true,
+      "nit": 43,
+      "q": 0.8974713558008366,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.8974712454583578,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 83,
+      "q": 0.8974716998787584,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.8974715405157272,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.8974714959018506,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.897471536584015,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.8974716773058224,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.8974713445878824,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.8974714230897872,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.89747153017071,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V04_noise_0.1": [
+    {
+      "success": true,
+      "nit": 47,
+      "q": 0.7725711429874008,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.7725710099008261,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7725712377221488,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.7725712504119203,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.7725710908269006,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.7725710224264524,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.7725712298114445,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.7725712897932846,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 62,
+      "q": 0.7725706675243948,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.772570992618575,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V04_noise_0.2": [
+    {
+      "success": true,
+      "nit": 52,
+      "q": 0.5790741861010236,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.5790742613009879,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5790743001932711,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5790743553258881,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.5790740095561587,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.5790742112867152,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5790741375070122,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.579073946295689,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5790743068663182,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5790741888740807,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V04_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 53,
+      "q": 0.25970130812859865,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.2597013362827838,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.2597012934416816,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.2597012839329672,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.2597012352902194,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.2597013244050281,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.2597013254533588,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.25970132128557305,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.2597012991556567,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 83,
+      "q": 0.2597013698289066,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V05_baseline": [
+    {
+      "success": true,
+      "nit": 42,
+      "q": 0.883654093451779,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8836542916346456,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.8836544842664203,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.8836544018643633,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.8836540567651358,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.8836544133019844,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.8836544478779957,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.8836544998947944,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.8836543411552433,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.8836543935060157,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V05_noise_0.1": [
+    {
+      "success": true,
+      "nit": 47,
+      "q": 0.7545121220157077,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.754512139565971,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.7545121668754691,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.7545121262351947,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.7545121537427398,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.7545120250263356,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.754511687776898,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.7545118134202141,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.7545121972224057,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.7545122783216466,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V05_noise_0.2": [
+    {
+      "success": true,
+      "nit": 46,
+      "q": 0.5595987189616372,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.5595987497873249,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.559598669768552,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5595985340574801,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5595985748502164,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5595986996215494,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.559598655020344,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5595986309681285,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.559598568130193,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.5595986358244268,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V05_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 51,
+      "q": 0.27505977556560685,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.27505983254777605,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.27505972166862114,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.27505975358540075,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 83,
+      "q": 0.2750598132945062,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.2750597639953487,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 85,
+      "q": 0.2750598747019254,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.2750597826757583,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.2750596911459126,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.27505952882966267,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V06_baseline": [
+    {
+      "success": true,
+      "nit": 50,
+      "q": 0.8872127149485891,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.887212761473579,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8872126204557831,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 62,
+      "q": 0.887212368257579,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.887212722003026,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.8872124265842427,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.887212541448227,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.8872127803433487,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8872126541058397,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.8872127416924145,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V06_noise_0.1": [
+    {
+      "success": true,
+      "nit": 45,
+      "q": 0.7548822428200219,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.7548821679677836,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7548821915908119,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7548821756817733,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.7548821972535839,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.754882266919946,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.7548820545340652,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.7548818165420476,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.7548823044236841,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.7548820062981898,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V06_noise_0.2": [
+    {
+      "success": true,
+      "nit": 50,
+      "q": 0.5582764513127764,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5582766397458698,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5582764267613185,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5582763206565624,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.5582763613183084,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.5582763022117676,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.5582765840388222,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.5582764742870648,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.558276390327344,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.5582764981964669,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V06_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 50,
+      "q": 0.24370345097549598,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 80,
+      "q": 0.2437037607041035,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.2437034314571656,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.24370358203613152,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.24370356485081762,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 82,
+      "q": 0.2437037667739551,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.243703667628573,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.24370367840012214,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 81,
+      "q": 0.24370369158766847,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 80,
+      "q": 0.24370361485427613,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V07_baseline": [
+    {
+      "success": true,
+      "nit": 44,
+      "q": 0.8853555628104309,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.8853554440243459,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.885355352614702,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 82,
+      "q": 0.8853556331226835,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.8853554241139729,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.8853554822945049,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.8853555077373021,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.8853555847885618,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.885355452360759,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 83,
+      "q": 0.8853556374992212,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V07_noise_0.1": [
+    {
+      "success": true,
+      "nit": 47,
+      "q": 0.7558719259523924,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.7558715900342885,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.7558723098215446,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.7558721389702231,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.755871802091683,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.7558720735619613,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7558721620111526,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 80,
+      "q": 0.7558723539445465,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.755872249054709,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.7558721819903714,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V07_noise_0.2": [
+    {
+      "success": true,
+      "nit": 49,
+      "q": 0.5645667425982835,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.5645670502715107,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.5645670300509145,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.564567043967384,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.5645670058707898,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.5645666034610073,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5645666446146331,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.5645669743953791,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.564566959803412,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.5645670217283015,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V07_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 56,
+      "q": 0.26743645561258417,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 86,
+      "q": 0.26743654688297336,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.2674364582110128,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.2674363458807354,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.267436372698487,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.26743632502463033,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.26743644517984533,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 83,
+      "q": 0.2674365271145412,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.2674363313579505,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.2674363841932985,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V08_baseline": [
+    {
+      "success": true,
+      "nit": 42,
+      "q": 0.8934303950128654,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.8934306774332988,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.8934306575990547,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.8934303360041946,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.8934306722240689,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.8934304925310519,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.8934306351049873,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.8934306384045653,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.893430582873808,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8934304512789744,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V08_noise_0.1": [
+    {
+      "success": true,
+      "nit": 52,
+      "q": 0.7687697494329758,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.7687696121978486,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.7687695287975017,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7687697667249113,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.7687696589350038,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.768769426429477,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.7687694290053119,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.7687693665438705,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7687695167104035,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.7687698871076035,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V08_noise_0.2": [
+    {
+      "success": true,
+      "nit": 52,
+      "q": 0.5774840831599746,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5774842205545483,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5774840973975665,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5774843129777459,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5774841495940661,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.5774841560973721,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.5774843494851102,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.5774841331463019,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.5774839012782187,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 80,
+      "q": 0.5774843731830106,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V08_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 58,
+      "q": 0.2769959945428412,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.2769957922117082,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.27699589892427895,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.27699591085918196,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.2769959170415326,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.2769958638355807,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.2769958244538288,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.27699594614828893,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 81,
+      "q": 0.27699591782329647,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.27699559867045664,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V09_baseline": [
+    {
+      "success": true,
+      "nit": 49,
+      "q": 0.8939891213362635,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.8939891049379056,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.8939890091618764,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.8939891117091864,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.893988837142923,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.893989048256111,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.8939888700278229,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.8939890169235185,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8939890277260197,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 62,
+      "q": 0.8939888702392673,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V09_noise_0.1": [
+    {
+      "success": true,
+      "nit": 49,
+      "q": 0.7724470081739845,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7724470498186913,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.7724472215976497,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 62,
+      "q": 0.7724467297463689,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.7724470032210708,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.7724470437015523,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7724471611902685,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.7724471411103618,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 61,
+      "q": 0.7724469815223304,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 62,
+      "q": 0.7724468128046204,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V09_noise_0.2": [
+    {
+      "success": true,
+      "nit": 61,
+      "q": 0.5809052658304187,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.5809050870428274,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.5809051543249119,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5809051299529694,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5809051672262274,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.580904825964398,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.5809051802623934,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.5809050823783075,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.5809051329667155,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.5809050547429191,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V09_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 52,
+      "q": 0.2766599782959699,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.27665995362925067,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.27665982590613564,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.2766599670501495,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.27665996779105784,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.2766599648170962,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.27665988746287085,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.2766597956916266,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.27665984424524637,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.276659915160777,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V10_baseline": [
+    {
+      "success": true,
+      "nit": 42,
+      "q": 0.8981514968215091,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.8981516784750759,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.8981514873266891,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 61,
+      "q": 0.8981512835045162,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8981516370012947,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.8981514362934006,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.8981516207483698,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.8981514770844009,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.89815137432985,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.8981517371848637,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V10_noise_0.1": [
+    {
+      "success": true,
+      "nit": 52,
+      "q": 0.7773042010634225,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7773040966804751,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.7773041359657888,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.7773043296953267,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7773043148326524,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7773042991109992,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.777304244830932,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7773043041515613,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.7773042653729001,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7773043241121133,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V10_noise_0.2": [
+    {
+      "success": true,
+      "nit": 50,
+      "q": 0.5898546717005487,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.5898545628402626,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5898545769658424,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.5898548677991261,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5898545697440036,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.5898546425501027,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.5898546480081837,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.5898546260985651,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5898547318293185,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.5898542025213123,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V10_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 47,
+      "q": 0.2706772793046925,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.2706772344166134,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.2706772818447356,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.2706772081919515,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.2706772865586649,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.2706772269309965,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.2706771288936188,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.2706773194448262,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.2706772055823899,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.2706772874993588,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V11_baseline": [
+    {
+      "success": true,
+      "nit": 47,
+      "q": 0.8968759835298153,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.8968758739538479,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.8968758687654502,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.8968758229974403,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.8968757936745527,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.8968760028414043,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.8968755984109151,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.8968759730274253,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.896875805383296,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 62,
+      "q": 0.8968756317510828,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V11_noise_0.1": [
+    {
+      "success": true,
+      "nit": 57,
+      "q": 0.7748157911935529,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.7748156127493591,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.7748158112964626,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.7748158135158933,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.774815898392561,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7748157427231751,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.7748157157713004,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 81,
+      "q": 0.7748159523223261,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.7748155124877426,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7748156299157836,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V11_noise_0.2": [
+    {
+      "success": true,
+      "nit": 57,
+      "q": 0.5807753570002975,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 82,
+      "q": 0.5807751573396158,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5807750861360553,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.5807753157138685,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5807752884006834,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5807751157150174,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.5807753380586407,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.5807753410931118,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.5807748453916193,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.5807747760647979,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V11_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 47,
+      "q": 0.28724963073919263,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 88,
+      "q": 0.2872497010406129,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.2872496382934089,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.28724969415875573,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.28724957078256474,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.28724966150844694,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.28724966613672775,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.28724962634779566,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.2872496373563852,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.2872496393949299,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V12_baseline": [
+    {
+      "success": true,
+      "nit": 51,
+      "q": 0.8875883607395825,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.8875883345730063,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.8875882939702316,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.8875882327891741,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 62,
+      "q": 0.887588279606118,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.8875882121948365,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.8875884396916779,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.8875883387994747,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8875882408354906,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.8875880739316553,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V12_noise_0.1": [
+    {
+      "success": true,
+      "nit": 47,
+      "q": 0.7603325426967955,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7603324497864763,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.7603325807778006,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.7603326255533357,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7603325907380475,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.760332560847271,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 60,
+      "q": 0.760332369800048,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.7603324988445722,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.7603326258122094,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.7603325049039164,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V12_noise_0.2": [
+    {
+      "success": true,
+      "nit": 44,
+      "q": 0.5734272897128505,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.5734275799394698,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5734273210492403,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 80,
+      "q": 0.573427506401382,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.5734272151208356,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5734274132280694,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5734273830643244,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.5734275749115402,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 82,
+      "q": 0.5734276469175384,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5734274855897865,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V12_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 54,
+      "q": 0.26729361222719655,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.26729350405329244,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.2672935644956068,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.2672935820541204,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.2672935390400136,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.26729359612587006,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.26729359737457703,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.26729350273288366,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.2672935483206684,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.26729347514321256,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V13_baseline": [
+    {
+      "success": true,
+      "nit": 41,
+      "q": 0.8918344277697063,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.891834270384205,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.8918343335543063,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.8918342788048662,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.891834379919574,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.8918345437255886,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 62,
+      "q": 0.891834221045305,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8918341990540691,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.891834345663011,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.8918345136932028,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V13_noise_0.1": [
+    {
+      "success": true,
+      "nit": 54,
+      "q": 0.758487678925962,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.7584878945061421,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7584875938701159,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.7584877803802103,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.7584878983725112,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.7584879007550298,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.7584875699986728,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7584876923683027,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.758487731351574,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.7584875728876072,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V13_noise_0.2": [
+    {
+      "success": true,
+      "nit": 56,
+      "q": 0.5604153090457534,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5604150763537878,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.560415372833884,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.560414796756819,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5604152314304592,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5604150678355805,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 61,
+      "q": 0.5604150013836281,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.5604152160259935,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.5604151736268975,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5604152369571171,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V13_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 60,
+      "q": 0.2513478863286113,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.2513478913262056,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.2513479062860067,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.2513478384456999,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.2513478932263371,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.25134791698429887,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.2513478399224174,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.25134790709439336,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.25134781240380166,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.25134791693607844,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V14_baseline": [
+    {
+      "success": true,
+      "nit": 44,
+      "q": 0.8978617817169539,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.8978618669230578,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.8978619877401773,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.8978618027564346,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.8978619398511509,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.8978619912902874,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.8978619131790888,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.897861944226405,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.8978618089176299,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.8978614668739964,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V14_noise_0.1": [
+    {
+      "success": true,
+      "nit": 50,
+      "q": 0.7697656106193317,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.7697658216521225,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7697658628640602,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.7697658471346627,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.7697654588218799,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7697654847809225,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7697656883900551,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7697657217773203,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.7697653305224231,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7697657419011318,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V14_noise_0.2": [
+    {
+      "success": true,
+      "nit": 61,
+      "q": 0.5769655812592009,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.5769651993425117,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5769655174172094,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 80,
+      "q": 0.5769656659267703,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.5769650038659144,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.576965591473027,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.576965284991116,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.576965414542698,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.5769656290246847,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5769652578128245,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V14_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 56,
+      "q": 0.2579584586619804,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 85,
+      "q": 0.25795858248280945,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.2579584796165977,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.25795847963898566,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.2579585426476344,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.2579585039746079,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.2579585177344885,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.25795854526324663,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.25795853312062256,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.2579584584415653,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V15_baseline": [
+    {
+      "success": true,
+      "nit": 9,
+      "q": 0.8864939059357179,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.8872126528487763,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.887212870024919,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.8872128281040212,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.8872127851536754,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.8872127194474806,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.8872127215850154,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.8872125431368655,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.8872128127050373,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8872128406186388,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V15_noise_0.1": [
+    {
+      "success": true,
+      "nit": 42,
+      "q": 0.7640740175710482,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.7640745232737525,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.764074439897558,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7640744457613798,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.764074267586026,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7640743805959439,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.7640743476840827,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 80,
+      "q": 0.7640743449951992,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.7640744206825014,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.7640741907651932,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V15_noise_0.2": [
+    {
+      "success": true,
+      "nit": 52,
+      "q": 0.5758061783196804,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5758062312389882,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.5758062512712033,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.5758061667475686,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 83,
+      "q": 0.5758062877370966,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.5758060455504711,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5758059757708048,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.575805970695119,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.5758061342313563,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.5758060474403262,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V15_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 48,
+      "q": 0.2769119287726514,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.2769118895427899,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.276911912129604,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.2769118719732955,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.27691193633616557,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.27691196620922987,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.276911848214457,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.2769118935045201,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.27691192625398875,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.27691191161544887,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V16_baseline": [
+    {
+      "success": true,
+      "nit": 48,
+      "q": 0.8892828925658198,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.8892833154417085,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.8892834026964942,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.8892833309460677,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.8892834295464392,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.8892831157334011,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 62,
+      "q": 0.8892828555689235,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.8892831184728874,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.8892832598156144,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8892832489971964,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V16_noise_0.1": [
+    {
+      "success": true,
+      "nit": 47,
+      "q": 0.7584437561930412,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7584438100609648,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.758443777216809,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7584438146609203,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.7584438204718954,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.7584436482847504,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.758443910632252,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.7584440000249534,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.7584435268651634,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.7584438594883217,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V16_noise_0.2": [
+    {
+      "success": true,
+      "nit": 42,
+      "q": 0.5623033612943088,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.5623034950867817,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 82,
+      "q": 0.5623038077323802,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.5623036784928541,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.5623037315396597,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.5623036811214639,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 82,
+      "q": 0.5623038572871019,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5623036705335938,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5623037811638893,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.5623033364574834,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V16_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 48,
+      "q": 0.2658700028410213,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.26586982154409194,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.2658699781969426,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.2658700290820612,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.2658700095124198,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.26586996049117023,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.26586997289067993,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.2658699877054481,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.26587002381419295,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.2658700560396063,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V17_baseline": [
+    {
+      "success": true,
+      "nit": 52,
+      "q": 0.8891721772701867,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.889172304389813,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.8891724253038675,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.8891723452405069,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.8891720433458496,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 61,
+      "q": 0.8891720781140847,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.8891722689259305,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.889172363733256,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.8891722073518665,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8891721789441211,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V17_noise_0.1": [
+    {
+      "success": true,
+      "nit": 49,
+      "q": 0.7595644335074948,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.7595646286956902,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.7595642158793641,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.759564557828173,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.7595643175402681,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 62,
+      "q": 0.7595642304992002,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7595643547672788,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7595644408423666,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.759564414183172,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7595643350842557,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V17_noise_0.2": [
+    {
+      "success": true,
+      "nit": 48,
+      "q": 0.5658011383747388,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.5658012325577135,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5658011875861121,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 80,
+      "q": 0.5658015164235418,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5658012718389388,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 62,
+      "q": 0.5658011476331244,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.5658013449208904,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5658011954365568,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5658012515937009,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 84,
+      "q": 0.5658015169297671,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V17_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 50,
+      "q": 0.2754345298652331,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.27543457123835613,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.27543439147189536,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.27543462178731737,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.27543449343939874,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.27543432343175756,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.275434524890597,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.275434552081393,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 79,
+      "q": 0.2754346028291319,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.2754344017961947,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V18_baseline": [
+    {
+      "success": true,
+      "nit": 53,
+      "q": 0.8867615143604682,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.8867615150142326,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.8867613853879236,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.8867612314622888,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.8867612336108553,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.886761459944745,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.8867614534095402,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.8867612461606074,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.886761495076558,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 62,
+      "q": 0.886761105614777,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V18_noise_0.1": [
+    {
+      "success": true,
+      "nit": 50,
+      "q": 0.7504428598330752,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.7504427093355869,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.7504428065336138,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.7504429508367791,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 61,
+      "q": 0.7504425462888724,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.7504428220947483,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7504427926949632,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.7504425057636829,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.750442811953217,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7504426783830166,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V18_noise_0.2": [
+    {
+      "success": true,
+      "nit": 47,
+      "q": 0.5557639892841789,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.5557640675907479,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.5557640822094273,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.5557641982698724,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5557640475461278,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.555764142028043,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.5557640952871085,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5557637700951926,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.5557638701253451,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.5557641034893069,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V18_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 49,
+      "q": 0.268637986731152,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.2686380051435183,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.2686379623716262,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.2686380152732328,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.2686379421309501,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.26863794331821034,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.26863796082232627,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.26863790657967385,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.2686380398693262,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.2686380267825088,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V19_baseline": [
+    {
+      "success": true,
+      "nit": 42,
+      "q": 0.8946399420627031,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.894640190456521,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.894640010698813,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.8946399923392905,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.894640000213003,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.8946400510028177,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 78,
+      "q": 0.8946402854950508,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 62,
+      "q": 0.8946398617219353,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.8946399075674482,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.8946401016029684,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V19_noise_0.1": [
+    {
+      "success": true,
+      "nit": 49,
+      "q": 0.7697915505969374,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7697914840273455,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.7697916018010823,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.7697914908514062,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.7697916445783126,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.7697913576368639,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.7697915892178991,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.7697914108662904,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.7697916647720152,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.76979125767527,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V19_noise_0.2": [
+    {
+      "success": true,
+      "nit": 45,
+      "q": 0.5785087824361678,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.5785091231140442,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.5785091929080953,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5785091548418971,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.5785090135106434,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5785088941405974,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.5785091322994586,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.5785091985988045,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.5785090987546293,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5785091289206864,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V19_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 46,
+      "q": 0.29020830503663825,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.2902081919343344,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.2902083243832388,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.2902082387709775,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.2902083044796316,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.29020837616108264,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.2902083967535638,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.29020824147461,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.29020833790785366,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.29020830138654496,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V20_baseline": [
+    {
+      "success": true,
+      "nit": 39,
+      "q": 0.8960922606079403,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.8960923021397267,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.8960923762959756,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.8960923569016996,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.8960924801793905,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 60,
+      "q": 0.8960921440886819,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 66,
+      "q": 0.8960924600207296,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.8960925688482261,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.8960922043901662,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 72,
+      "q": 0.8960924838234215,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V20_noise_0.1": [
+    {
+      "success": true,
+      "nit": 54,
+      "q": 0.7691016049729041,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 70,
+      "q": 0.769101444808794,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 76,
+      "q": 0.7691016613040134,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.7691013823038413,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7691013070153846,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.7691015891620879,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.7691016305444396,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7691015617584563,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 71,
+      "q": 0.7691011399016168,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.7691011834605448,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V20_noise_0.2": [
+    {
+      "success": true,
+      "nit": 57,
+      "q": 0.5727439148188591,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.5727439413267282,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 81,
+      "q": 0.5727441104536115,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.5727440034968072,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.572743950637588,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.572743998022054,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.5727435427821552,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.5727434965020501,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 74,
+      "q": 0.572743821610703,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.5727439290015964,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ],
+  "V20_overlap_0.75": [
+    {
+      "success": true,
+      "nit": 48,
+      "q": 0.28773762555178645,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 68,
+      "q": 0.28773758822353984,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 64,
+      "q": 0.28773761678074083,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 77,
+      "q": 0.28773767202907363,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 69,
+      "q": 0.28773761558393335,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 67,
+      "q": 0.2877375912610213,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 73,
+      "q": 0.2877375861516109,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 63,
+      "q": 0.2877375534900993,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 75,
+      "q": 0.2877376585382231,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    },
+    {
+      "success": true,
+      "nit": 65,
+      "q": 0.2877376156533804,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH"
+    }
+  ]
+}

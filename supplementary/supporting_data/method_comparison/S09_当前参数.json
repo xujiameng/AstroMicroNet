@@ -1,0 +1,18 @@
+{
+  "BE_implementation": "v5 checked cpnet 0.0.21 kernels",
+  "threshold": "np.quantile(W[np.triu_indices(N,1)], 0.05); B=(W>=threshold), diagonal zero",
+  "retained_edge_fraction": "approximately 0.95",
+  "num_runs": 10,
+  "seed": 0,
+  "conditions": [
+    "baseline",
+    "noise_0.1",
+    "noise_0.2",
+    "overlap_0.75"
+  ],
+  "n_per_condition": 20,
+  "AstroMicroNet_and_Rombach": "Identical to v7 reference results on the same networks.",
+  "parameter_selection": "Exploratory search to reproduce cross-computer distribution; approved by author for this revision. Not selected as the best BE F1 and not independent confirmation.",
+  "statistics": "Two-sided exact Wilcoxon signed-rank, jointly BH across 12 comparisons; 99,999 within-network label permutations for overall Friedman test. P values do not account for parameter search.",
+  "source_result_sha256": "40b42c3a37eb16d23505a51588d6aed4e422ec33a7212ae758be702e4ce49083"
+}

@@ -1,0 +1,16 @@
+{
+  "complete": true,
+  "networks": 500,
+  "false_positive_networks": 26,
+  "empty_networks": 474,
+  "false_positive_rate": 0.052,
+  "exact_CI95": [
+    0.0342456980827679,
+    0.07526637103027015
+  ],
+  "any_false_positives_before_gate": 500,
+  "gate_accepted": 26,
+  "all_converged": true,
+  "backend_sha256": "cee3bdc13fad97829df1343ce9b6cc223287efd4ebf22d7cef44e0532e496391",
+  "elapsed_seconds": 317.6816039085388
+}

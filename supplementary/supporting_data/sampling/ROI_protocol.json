@@ -1,0 +1,54 @@
+{
+  "area_minimum_pixels": 5,
+  "area_minimum_um2": 0.174845,
+  "area_unit_confirmed_by_author": true,
+  "pixel_um": 0.187,
+  "threshold": 1.650500652076438,
+  "threshold_rule": "M - Gaussian(M,sigma=5px) >= mean + 1 population SD of that residual within eligible tissue; minimum5px; intersect cell and exclude soma/branches",
+  "connectivity": 8,
+  "cell_pixels": 105351,
+  "excluded_pixels_inside_cell": 18822,
+  "eligible_pixels": 86529,
+  "components_before_area_filter": 499,
+  "retained_ROIs": 241,
+  "contours": [
+    {
+      "file": "LOCAL_SOURCE/downsamping_0_1000_Cell.mat",
+      "sha256": "4fb45493e806b8c85cccc32691106b074e1110e9b81d714dcf2227b907998767",
+      "region_count": 1,
+      "region_pixels": [
+        105351
+      ],
+      "annotation_canvas_height": 530,
+      "boundary_check": true
+    },
+    {
+      "file": "LOCAL_SOURCE/downsamping_0_1000_soma.mat",
+      "sha256": "a27a09d2f6bb5ae2d216d0988fd46a5acc5c7792443f9e53edec14c088f6d980",
+      "region_count": 1,
+      "region_pixels": [
+        2477
+      ],
+      "annotation_canvas_height": 530,
+      "boundary_check": true
+    },
+    {
+      "file": "LOCAL_SOURCE/downsamping_0_1000_primary_branch.mat",
+      "sha256": "7ddbab978cf9d136d4699cac2b98fadcbc3f31a559cd745a77e6483abc8e3b25",
+      "region_count": 6,
+      "region_pixels": [
+        3337,
+        2053,
+        2634,
+        2633,
+        3806,
+        1907
+      ],
+      "annotation_canvas_height": 530,
+      "boundary_check": true
+    }
+  ],
+  "same_ROIs_both_videos": true,
+  "network_outcomes_used_for_segmentation": false,
+  "author_confirmed_scope": "241 fixed ROIs; confirmed 2026-09-27. Segmentation outcomes and numerical data are unchanged."
+}

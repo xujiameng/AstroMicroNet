@@ -1,0 +1,33 @@
+{
+  "ROI_count": 241,
+  "minimum_pixels": 5,
+  "conditions": [
+    "raw40",
+    "average40",
+    "generated5",
+    "archive5"
+  ],
+  "source_frames": "zero-based 7..7998",
+  "archived_frames": "zero-based 1..999",
+  "normalization": "Per-ROI F0 = 20th percentile of generated 8-frame average; shared F0 for raw40, average40, generated5. Archive uses its 20th percentile at the same averaged time scale. Delta F/F, no extra smoothing.",
+  "average40": "8-frame moving average, stride1, valid windows; generated5 is exactly every eighth average40 sample",
+  "lag": "Full available lag in each condition; approximately the same physical span, maximum center lag199.775s raw and199.600s averaged",
+  "config": {
+    "rho": 0.2,
+    "tau": 0.2,
+    "random_starts": 1024,
+    "row_starts": 16,
+    "theta_offset": 0.0
+  },
+  "seed": "same fixed seed for every condition; no network-driven tuning",
+  "independent_unit": "one cell; ROI pairs are descriptive technical comparisons, not independent animals",
+  "baseline_sensitivity": "Repeat source-derived conditions using raw40 20th percentile F0; keep archived primary preprocessing and report source-only comparisons separately",
+  "lag_sensitivity_seconds": [
+    0,
+    1,
+    5,
+    10,
+    30
+  ],
+  "analysis_scope": "One paired recording with author supplied structure masks; supports a technical case study, not population invariance"
+}

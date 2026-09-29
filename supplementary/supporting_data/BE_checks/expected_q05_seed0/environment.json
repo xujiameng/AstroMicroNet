@@ -1,0 +1,22 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows-10-10.0.19044-SP0",
+  "numpy": "2.3.5",
+  "scipy": "1.15.3",
+  "numba": "0.63.1",
+  "command": [
+    "LOCAL_SOURCE/run_crosscheck.py",
+    "--output",
+    "LOCAL_SOURCE/expected_q05_seed0"
+  ],
+  "source_hashes": {
+    "run_crosscheck.py": "b98cb7539821677d07610a714725ecafc6c243251a7ff1c49ed3002833d9bb67",
+    "diagnostic_core.py": "2ae66f7af08e8971ba836da295f132dfa9bf6ed051ee776dd78f6650b4212b40",
+    "independent_be.py": "d2e2f9433786734b068a59cbd33f951603a558234ed456461dcf77f6f8b7fd0d",
+    "vendor\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "vendor\\BE_checked_full.py": "11cb644ff4f02ebea59c8fd1c33c8194226cc42e056ab7bbfe3fd8e23266266c",
+    "vendor\\be_checked_kernels.py": "3141f2db85bb260dde6e950ee09c6ad95f9c3812c0b1b4be740b53c33012021c",
+    "vendor\\BE_original_full.py": "2b93fbeb04bafa389110c61f25ec7efa6c9f36d1926e3999cb98b29dbda7c518",
+    "vendor\\be_original_kernels.py": "68754d61e5e7897c60f107acbf034719053c8b47b0e782efa0a4d35dc67b2cc4"
+  }
+}

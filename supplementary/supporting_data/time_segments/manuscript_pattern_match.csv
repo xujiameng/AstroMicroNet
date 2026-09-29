@@ -1,0 +1,5 @@
+﻿segments,panel_A_matches,panel_C_matches,both_match,A_CP_PP_q,C_CP_PP_q
+2,False,True,False,0.010498046875,0.013427734375
+3,True,True,True,1.0,0.039794921875
+4,True,False,False,0.497314453125,0.057373046875
+5,True,True,True,0.541748046875,0.01708984375

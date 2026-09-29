@@ -1,0 +1,30 @@
+{
+  "rho": 0.28,
+  "tau_grid": [
+    0.1,
+    0.2,
+    0.25,
+    0.33,
+    0.5
+  ],
+  "theta_offset_grid": [
+    -0.05,
+    -0.025,
+    0,
+    0.025,
+    0.05
+  ],
+  "development": "existing40 only",
+  "new_test": "20 wholly new independently seeded bases x four matched conditions",
+  "all_methods": [
+    "AstroMicroNet_frozen",
+    "AstroMicroNet_candidate",
+    "BE",
+    "Rombach",
+    "weighted_strength"
+  ],
+  "competitor_settings": "maintainer constructor defaults; BE uses unmodified two-means binary input",
+  "selection_criterion": "mean development F1, not p value; no test reranking or retuning",
+  "seed_prefix": "fair_retuning_new_test_20260921_v1",
+  "real_analysis": "unchanged; candidate kept separate pending a full-version decision"
+}

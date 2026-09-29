@@ -1,0 +1,5 @@
+﻿family,unit,n,friedman_statistic,p_chisquare,p_permutation,permutations,complete_case_exclusions
+definition_synchronous,independent waveform realization,20,12.771929824561434,0.0016850417933999013,0.00113,99999,0
+definition_delayed,independent waveform realization,20,30.400000000000034,2.5045163723275764e-07,1e-05,99999,0
+detector_synchronous,independent waveform realization,20,30.9375,8.761991573568534e-07,1e-05,99999,0
+detector_delayed,independent waveform realization,20,29.39999999999996,1.8453028685849145e-06,1e-05,99999,0

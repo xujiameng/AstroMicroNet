@@ -1,0 +1,24 @@
+{
+  "config": {
+    "rho": 0.28,
+    "tau": 0.2,
+    "random_starts": 1024,
+    "row_starts": 16,
+    "theta_offset": 0.0
+  },
+  "input": "G:\\论文相关\\+徐佳盟\\论文 - 核心外围微域\\GitHub上传准备_20260929\\AstroMicroNet\\software\\example\\synthetic_network.npz",
+  "seed_key": [
+    "fair_retuning_test_solver_20260921",
+    "V01_baseline"
+  ],
+  "gate_key": [
+    "fair_retuning_test_gate_20260921",
+    "V01_baseline"
+  ],
+  "N": 100,
+  "C": 24,
+  "gate_p": 0.002,
+  "gate_accept": true,
+  "theta": 0.5791807696813367,
+  "all_converged": true
+}

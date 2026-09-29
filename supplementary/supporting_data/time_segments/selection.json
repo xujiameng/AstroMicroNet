@@ -1,0 +1,16 @@
+{
+  "selected_segments": 3,
+  "matching_new_schemes": [
+    3,
+    5
+  ],
+  "all_schemes_reported": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "selection_basis": "outcome-informed exploratory choice; nearest4 then lower k",
+  "independent_confirmatory_validation": false,
+  "original_word_modified": false
+}

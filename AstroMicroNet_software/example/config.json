@@ -1,0 +1,13 @@
+{
+  "pipeline": {
+    "rho": 0.28
+  },
+  "seed_key": [
+    "fair_retuning_test_solver_20260921",
+    "V01_baseline"
+  ],
+  "gate_key": [
+    "fair_retuning_test_gate_20260921",
+    "V01_baseline"
+  ]
+}

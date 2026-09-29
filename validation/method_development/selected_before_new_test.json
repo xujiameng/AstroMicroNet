@@ -1,0 +1,13 @@
+{
+  "config": {
+    "rho": 0.28,
+    "tau": 0.2,
+    "theta_offset": 0.0,
+    "random_starts": 1024,
+    "row_starts": 16
+  },
+  "mean_development_F1": 0.9277221185715933,
+  "selection": "40 development networks, equal difficulty weights; maximum F1, ties prefer old settings",
+  "no_test_results_yet": true,
+  "all_25_candidates_reported": true
+}

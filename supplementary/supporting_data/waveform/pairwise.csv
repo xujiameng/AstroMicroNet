@@ -1,0 +1,19 @@
+﻿family,unit,n,a,b,median_difference,positive,negative,p,omnibus_significant,q_bh,q_bh_across_scenarios
+definition_synchronous,independent waveform realization,20,xcorr_full,pearson,-0.026990553306342813,1,13,0.0009765625,True,0.0029296875,0.001953125
+definition_synchronous,independent waveform realization,20,xcorr_full,spearman,-0.01282051282051283,4,10,0.0277099609375,True,0.0322265625,0.038671875
+definition_synchronous,independent waveform realization,20,pearson,spearman,0.01282051282051283,10,2,0.0322265625,True,0.0322265625,0.038671875
+definition_delayed,independent waveform realization,20,xcorr_full,pearson,0.24103840682788052,20,0,1.9073486328125e-06,True,2.86102294921875e-06,5.7220458984375e-06
+definition_delayed,independent waveform realization,20,xcorr_full,spearman,0.23997991799849383,20,0,1.9073486328125e-06,True,2.86102294921875e-06,5.7220458984375e-06
+definition_delayed,independent waveform realization,20,pearson,spearman,-0.01491841491841489,8,12,0.5155735015869141,True,0.5155735015869141,0.5155735015869141
+detector_synchronous,independent waveform realization,20,AstroMicroNet,BE,-0.017450451340053408,3,11,0.0030517578125,True,0.003662109375,0.00732421875
+detector_synchronous,independent waveform realization,20,AstroMicroNet,Rombach,-0.026990553306342813,3,11,0.0015869140625,True,0.00238037109375,0.0047607421875
+detector_synchronous,independent waveform realization,20,AstroMicroNet,weighted_strength,-0.02564102564102566,1,16,4.57763671875e-05,True,0.000274658203125,0.00054931640625
+detector_synchronous,independent waveform realization,20,BE,Rombach,0.0,0,1,1.0,True,1.0,1.0
+detector_synchronous,independent waveform realization,20,BE,weighted_strength,-0.02564102564102566,2,18,0.0003681182861328125,True,0.000736236572265625,0.00147247314453125
+detector_synchronous,independent waveform realization,20,Rombach,weighted_strength,-0.02564102564102566,2,18,0.0003681182861328125,True,0.000736236572265625,0.00147247314453125
+detector_delayed,independent waveform realization,20,AstroMicroNet,BE,0.0,3,9,0.0849609375,True,0.101953125,0.101953125
+detector_delayed,independent waveform realization,20,AstroMicroNet,Rombach,0.0,2,9,0.00390625,True,0.016757965087890625,0.0078125
+detector_delayed,independent waveform realization,20,AstroMicroNet,weighted_strength,-0.02564102564102566,2,16,0.02019500732421875,True,0.030292510986328125,0.026926676432291668
+detector_delayed,independent waveform realization,20,BE,Rombach,0.0,0,2,0.5,True,0.5,0.5454545454545454
+detector_delayed,independent waveform realization,20,BE,weighted_strength,-0.02564102564102566,2,18,0.007015228271484375,True,0.016757965087890625,0.012026105608258928
+detector_delayed,independent waveform realization,20,Rombach,weighted_strength,-0.02564102564102566,2,18,0.008378982543945312,True,0.016757965087890625,0.012568473815917969

@@ -1,0 +1,10 @@
+{
+  "input": "LOCAL_SOURCE/趋势复现_三方法240结果.csv",
+  "sha256": "40b42c3a37eb16d23505a51588d6aed4e422ec33a7212ae758be702e4ce49083",
+  "BE_setting": "checked categorical BE, per-network 5th percentile threshold, retain ~95% edges, num_runs=10, seed=0",
+  "pairing": "input network ID within condition; 20 matched networks in each panel",
+  "test": "two-sided exact Wilcoxon signed-rank; differences rounded to 12 decimals; zero differences omitted; tied ranks averaged",
+  "verification": "Dynamic-programming null probabilities independently matched exhaustive sign reassignment; BH independently matched scipy.stats.false_discovery_control",
+  "multiplicity": "12 pairwise comparisons = 3 method pairs x 4 conditions; BH applied jointly",
+  "interpretation": "Exploratory conditional comparison. Does not adjust for searching and selecting the BE threshold from the tested grid. Does not replace formal S09 or establish superiority over other BE settings."
+}

@@ -1,0 +1,66 @@
+{
+  "created_before_results": true,
+  "purpose": "Known-truth waveform benchmark, not a universal method ranking",
+  "independent_seeds": 20,
+  "conditions": [
+    "synchronous",
+    "delayed"
+  ],
+  "n": 100,
+  "planted_core": 20,
+  "frames": 1500,
+  "fs": 5,
+  "generator": "Poisson events 0.05/s; exponential calcium decay 1.2s; common loading core .9 / peripheral .25; independent loading .45 / .95; additive Gaussian SD .15; delayed common component uniform -3 to +3s; identical events and noise within each paired scenario",
+  "signal_input": "Synthetic dF/F-like traces, no extra demeaning or temporal smoothing",
+  "frozen_config": {
+    "rho": 0.2,
+    "tau": 0.2,
+    "random_starts": 1024,
+    "row_starts": 16,
+    "theta_offset": 0.0
+  },
+  "comparators": "Maintainer defaults; BE thresholded common matrix; Rombach x>=.5; strength top20",
+  "selection": "No parameter or seed selection on these outcomes; both timing scenarios retained",
+  "statistics": "Friedman within paired networks; exact two-sided signed rank; BH across all pairs and both timing conditions for each comparison family",
+  "development": "Original pilot seeds 0-19 retained, now development only; 21 configurations per definition selected on mean F1 over both scenarios",
+  "calibration_grid": {
+    "theta_offset": [
+      -0.3,
+      -0.2,
+      -0.1,
+      -0.05,
+      0,
+      0.05,
+      0.1
+    ],
+    "tau": [
+      0.1,
+      0.2,
+      0.3
+    ]
+  },
+  "tie_break": "Highest average F1, then smallest absolute offset, then tau closest to .20",
+  "new_test_seeds": [
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119
+  ],
+  "test_selection": "No revisiting grid or generator after new-test results"
+}
