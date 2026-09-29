@@ -16,3 +16,4 @@ switch lower(interface)
     case 'guide',app=Cal_node_detect;
     otherwise,error('Interface must be v2, v1 or guide.');
 end
+end
